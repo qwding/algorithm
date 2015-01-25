@@ -1,0 +1,1 @@
+/Users/qwding/.rvm/gems/ruby-2.0.0-p481/bin:/Users/qwding/.rvm/gems/ruby-2.0.0-p481@global/bin:/Users/qwding/.rvm/rubies/ruby-2.0.0-p481/bin:/usr/local/opt/mysql55/bin:/usr/local/opt/coreutils/libexec/gnubin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/qwding/.rvm/bin
