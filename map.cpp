@@ -14,6 +14,7 @@ int main(){
 	//遍历
 	map<int,string>::iterator iter;
 	for(iter = hash_map.begin(); iter != hash_map.end(); iter++){
+		//cout << "* iterator: " << *iter << endl;            //会报错！！type不对
 		cout << "key: " << iter->first << " value: " << iter->second <<endl;
 	}
 	//size
